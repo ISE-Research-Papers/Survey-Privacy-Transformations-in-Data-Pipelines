@@ -1,0 +1,21 @@
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+
+# Python / editor / OS
+.venv/
+__pycache__/
+.DS_Store
