@@ -27,7 +27,7 @@ Since our original interview analysis matrix is in German, we used Opus 5.5 to p
 - **Questions for RQ1:** Q8 asks which mechanisms respondents use to support privacy. Respondents who selected anonymization were directed to Q9–Q11 on the techniques they used, how they implemented them, and where they applied them in their pipelines.
 - **Questions for RQ3:** Q12–Q15 cover what respondents consider reuse, how often transformation stages are duplicated, which reuse mechanisms exist, and what limits reuse.
 - **Distribution:** before distribution, we tested the questionnaire and revised the wording and order of the questions. It ran on a self-hosted Formbricks instance and was distributed in September 2026 through university alumni mailing lists and professional forums.
-- **Responses:** of 170 recorded responses, 32 were completed. We excluded three respondents who selected anonymization in Q8 but have no recorded answers to Q9–Q11. The analysis therefore covers 29 responses, 13 of which answered Q9–Q11.
+- **Responses:** of 29 recorded responses, we excluded three respondents who selected anonymization in Q8 but have no recorded answers to Q9–Q11. The analysis therefore covers 29 responses, 13 of which answered Q9–Q11.
 - **Reporting:** multiple-choice answers are reported in the questionnaire's categories. The category *anonymization* includes pseudonymization and encryption.
 
 ## Interviews
